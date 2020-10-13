@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KuKMmppXYR1Wm7ut53DmLgKQDSgJUWGge93Qa+ewA4iVcUKFZCNluvuevxPgnxwAUyoQ54gAdUTJlNjQ+RT+dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Who\\Desktop\\Kodigo\\BooksAndRestaurant\\BooksAndRestaurant\\BooksAndRestaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Who\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

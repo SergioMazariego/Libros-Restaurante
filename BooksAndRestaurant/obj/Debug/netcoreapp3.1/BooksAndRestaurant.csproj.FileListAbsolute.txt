@@ -1,0 +1,15 @@
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\bin\Debug\netcoreapp3.1\BooksAndRestaurant.exe
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\bin\Debug\netcoreapp3.1\BooksAndRestaurant.deps.json
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\bin\Debug\netcoreapp3.1\BooksAndRestaurant.runtimeconfig.json
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\bin\Debug\netcoreapp3.1\BooksAndRestaurant.runtimeconfig.dev.json
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\bin\Debug\netcoreapp3.1\BooksAndRestaurant.dll
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\bin\Debug\netcoreapp3.1\BooksAndRestaurant.pdb
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\obj\Debug\netcoreapp3.1\BooksAndRestaurant.csprojAssemblyReference.cache
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\obj\Debug\netcoreapp3.1\BooksAndRestaurant.AssemblyInfoInputs.cache
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\obj\Debug\netcoreapp3.1\BooksAndRestaurant.AssemblyInfo.cs
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\obj\Debug\netcoreapp3.1\BooksAndRestaurant.dll
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\obj\Debug\netcoreapp3.1\BooksAndRestaurant.pdb
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\obj\Debug\netcoreapp3.1\BooksAndRestaurant.genruntimeconfig.cache
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\obj\Debug\netcoreapp3.1\BooksAndRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Who\Desktop\Kodigo\BooksAndRestaurant\BooksAndRestaurant\obj\Debug\netcoreapp3.1\BooksAndRestaurant.csproj.CopyComplete
